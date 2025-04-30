@@ -3,7 +3,7 @@
 
 # Fork Bomb Slayer – IDS Powered by Python
 
-Welcome to **Fork Bomb Slayer**, where we simulate chaos and counter it like Guts from Berserk. This mini lab was built by Appar Thebe to showcase how a bash fork bomb attack can be detected and stopped in real time using a Python-based Intrusion Detection and Prevention System (IDPS).
+Welcome to **Fork Bomb Slayer**, where we simulate chaos and counter it like Guts from Berserk. This showcase how a bash fork bomb attack can be detected and stopped in real time using a Python-based Intrusion Detection and Prevention System (IDPS).
 
 ## 🔧 What’s Inside:
 - `fork_bomb.sh`: Bash script that launches an infinite number of processes to simulate a DoS attack.
