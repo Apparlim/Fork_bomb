@@ -1,4 +1,5 @@
 
+![Screenshot 2025-04-29 192547](https://github.com/user-attachments/assets/99934a38-1e8c-4064-aeb9-e72da1b00f6f)
 
 # Fork Bomb Slayer – IDS Powered by Python
 
