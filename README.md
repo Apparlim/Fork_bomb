@@ -34,7 +34,7 @@ Watch your Python guardian monitor CPU and process count. If processes exceed 50
 [2025-04-29 03:52:11.234247] ALERT: High process count detected: 6354
 ```
 
-## 🎯 Why This Project?
+##  Why This Project?
 Because defending systems should be just as thrilling as attacking them. This is a lightweight, real-time, host-based defense system that gives beginners and learners a hands-on way to understand CPU exhaustion attacks.
 
 > "You should enjoy the little detours. Sometimes they’re the most important part of the journey." – Guts 🗡️
